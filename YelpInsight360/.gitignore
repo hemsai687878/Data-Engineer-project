@@ -1,0 +1,10 @@
+.idea
+terraform/.terraform
+terraform/.terraform.tfstate.lock.info
+terraform/terraform.tfstate
+terraform/*.backup
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+airflow_variables.json
+tf_output.json
